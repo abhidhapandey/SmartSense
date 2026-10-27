@@ -26,7 +26,7 @@ The dashboard includes:
 - **Alert Center:** a view of readings that cross the demo thresholds.
 - **Data Explorer:** a searchable table with CSV export.
 
-I'll add a screenshot here once the dashboard design is finalised.
+
 
 ## Tech stack
 
