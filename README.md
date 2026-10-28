@@ -20,6 +20,7 @@ I'm using this project to practise Python, data handling, visualisation, testing
 ## Dashboard
 
 The dashboard includes:
+![SmartSense dashboard](dashboard.png)
 
 - **Overview:** latest readings, charts, and machine status.
 - **Sensor Analytics:** sensor trends and summary statistics.
